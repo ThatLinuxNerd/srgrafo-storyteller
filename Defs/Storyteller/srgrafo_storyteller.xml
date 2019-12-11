@@ -4,7 +4,7 @@
   <StorytellerDef ParentName="BaseStoryteller">
     <defName>SrGrafo</defName>
     <label>SrGrafo</label>
-    <description>SrGrafo doesn't have your own puny colony in mind, in fact this psychopath will have no issue in desimating it, along with your own hopes and dreams. He is more powerful than Randy Random, which means much larger raids early on, which may cause your colony to be way more fragile too. \n\nWIP. </description>
+    <description>SrGrafo doesn't have your own puny colony in mind, in fact this psychopath will have no issue in desimating it, along with your own hopes and dreams. He is more powerful than Randy Random, which means much larger raids early on, which may also cause your colony to be way more fragile too. This is storyteller loosely based upon SrGrafo's Rimworld comics. \n\nWIP. </description>
     <portraitLarge>UI/HeroArt/Storytellers/daleberto</portraitLarge>
     <portraitTiny>UI/HeroArt/Storytellers/graforimworld</portraitTiny>
     <listOrder>40</listOrder>
