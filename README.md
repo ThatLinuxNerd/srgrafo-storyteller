@@ -1,4 +1,4 @@
 # srgrafo-storyteller
-A storyteller for the game RimWorld
+A storyteller for RimWorld 1.0
 
 WIP
